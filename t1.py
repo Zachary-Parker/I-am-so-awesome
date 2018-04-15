@@ -8,4 +8,12 @@ def do(request):
 	print('done at home')
 do()
 
+
 sdfsfdsdfsf 
+
+
+def func2():
+    print(1111)
+func2()
+
+sdfsdfsdfsdffsdf
