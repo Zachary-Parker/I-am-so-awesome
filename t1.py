@@ -4,6 +4,6 @@ def func():
 func()
 
 
-def do():
+def do(request):
 	print('done at home')
 do()
