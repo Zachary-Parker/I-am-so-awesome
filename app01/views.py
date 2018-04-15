@@ -11,3 +11,8 @@ def index(request):
     if user == 'Parker' and pwd == '123':
         return HttpResponse('Welcome!')
     return HttpResponse('Login Failed')
+
+
+
+def fix():
+    return 'fixation'
