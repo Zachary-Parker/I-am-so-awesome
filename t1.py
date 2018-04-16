@@ -17,3 +17,9 @@ def func2():
 func2()
 
 sdfsdfsdfsdffsdf
+
+
+def func3():
+
+	pass
+	
